@@ -1,0 +1,11 @@
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\bin\Debug\PruebaVelocidad.exe.config
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\bin\Debug\PruebaVelocidad.exe
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\bin\Debug\PruebaVelocidad.pdb
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.csprojResolveAssemblyReference.cache
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.Form1.resources
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.Properties.Resources.resources
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.csproj.GenerateResource.Cache
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.exe
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.pdb
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.Ver_Arreglo.resources
+C:\SUGEIRI\utesa\C22021\ALGORITMOS PARALELOS\PF_AlgoritmosParalelos\PruebaVelocidad\PruebaVelocidad\obj\Debug\PruebaVelocidad.Ver_Average.resources
